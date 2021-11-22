@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://FuNingMing.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-11-22T02:40:30.007Z</updated>
+    <title>FuShuai</title>
+    <updated>2021-11-22T06:12:45.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://FuNingMing.github.io"/>
     <link rel="self" href="https://FuNingMing.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>付帅的博客</subtitle>
     <logo>https://FuNingMing.github.io/images/avatar.png</logo>
     <icon>https://FuNingMing.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, FuShuai</rights>
     <entry>
         <title type="html"><![CDATA[123]]></title>
         <id>https://FuNingMing.github.io/post/123/</id>
